@@ -10,4 +10,12 @@ html {
 
 body {
     width: 100%;
+    font-size: 3rem;
 }
+
+#alert, #somme {
+    padding: 1rem;
+    margin: 1rem;
+    font-size: 2rem;
+}
+
